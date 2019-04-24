@@ -1,16 +1,16 @@
 # bibliotheque  
 
-##1. Login :
-![alt text](https://drive.google.com/open?id=1KibPleL2yHQrtWPUvyQnta9ZTJsQBFzj)
-##2. Insert New Request :
-![alt text](https://drive.google.com/open?id=16U8EK8lYrPTHW_gcWI0NPZC1qWSV2was)
-##3. Insert New employee :
-![alt text](https://drive.google.com/open?id=1egLQTUso-WBZ1bFtIDLMKs123Q-hPr41)
-##4. Update employerr infos :
-![alt text](https://drive.google.com/open?id=1T2MLbxWUsSQV1Bxi-0U7iXHg_U_Hf1ya)
-##5. Assign docs to employees, to begin the tracking :
-![alt text](https://drive.google.com/open?id=1rzivOPzw0WMGuqq8SQGBRMX6gMJp_LyG)
-##6. Update the progress on the tasks started :
-![alt text](https://drive.google.com/open?id=1Ad-X5GgWCR931zPNyXUA2LGr8Re9d8UN)
-##7. move tasks that has been done with to the Archive :
-![alt text](https://drive.google.com/open?id=1U1tKI3u-_y3WMcMMfKaYWIt-YfqAqjLk)
+##1. Login : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%A7%D9%84%D9%88%D9%84%D9%88%D8%AC%200.png) <br>
+##2. Insert New Request : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/2%20%D8%A7%D8%B6%D8%A7%D9%81%D8%A9%20%D8%B2%D8%A8%D9%88%D9%86.png) <br>
+##3. Insert New employee : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%A7%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D9%88%D8%B8%D9%81.png) <br>
+##4. Update employerr infos : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%20%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86.png) <br>
+##5. Assign docs to employees, to begin the tracking : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%AA%D9%88%D8%B2%D9%8A%D8%B9%20%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82.png) <br>
+##6. Update the progress on the tasks started : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%20%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82.png) <br>
+##7. move tasks that has been done with to the Archive : <br>
+![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%A7%D9%84%D8%A7%D8%B1%D8%B4%D9%8A%D9%81.png) <br>
