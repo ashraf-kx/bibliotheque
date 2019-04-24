@@ -1,5 +1,10 @@
 # Bibliotheque  
+#  _Features!_
 
+- Register a client documents and assign it to one of your employees.
+- Manage the progress on each task in progress of your clients (Basic Solution).
+- Print a tickets for the submitted order.
+  
 ##1. Login : <br>
 ![alt text](https://github.com/ashraf-kx/bibliotheque/blob/master/screenshots/%D8%A7%D9%84%D9%88%D9%84%D9%88%D8%AC%200.png) <br>
 ##2. Insert New Request : <br>
