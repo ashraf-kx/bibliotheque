@@ -26,7 +26,16 @@
    <property name="spacing">
     <number>0</number>
    </property>
-   <property name="margin">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
     <number>0</number>
    </property>
    <item>
@@ -98,7 +107,7 @@ margin:0px 0px 0px 0px;
 }</string>
        </property>
        <property name="text">
-        <string>مكتبة ياسين</string>
+        <string>مكتبة الراشدين</string>
        </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>

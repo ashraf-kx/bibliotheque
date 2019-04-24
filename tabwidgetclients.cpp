@@ -5,7 +5,7 @@
 #include <QDir>
 #include "dialog.h"
 #include "toast.h"
-
+#include <QPainter>
 
 TabWidgetClients::TabWidgetClients(QWidget *parent) :
     QTabWidget(parent),
@@ -308,6 +308,7 @@ void TabWidgetClients::deleteClient()
 int TabWidgetClients::printTicket()
 {
     int idClient = ui->SB_idClientx->value();
+    int exit = 0;
 
     QString CName,CDocN,DateDP,DateDV,pages,lang,phoneN,AdressLocal;
 
@@ -386,8 +387,9 @@ int TabWidgetClients::printTicket()
 
             painter.drawText(-60, 48, 390, 270, Qt::AlignRight|Qt::AlignTop , Ticket);
 
-            painter.end();
-
+            if(painter.end()) exit = 1;
+            else exit = -1;
         }
 
+        return exit;
 }

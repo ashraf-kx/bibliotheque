@@ -4,9 +4,12 @@
 #
 #-------------------------------------------------
 
-QT       += core gui sql
+QT       += core gui sql printsupport
 
-TARGET = biblioYass
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+CONFIG   += c++11
+
+TARGET = bibliotheque
 TEMPLATE = app
 
 
@@ -55,5 +58,4 @@ RESOURCES += \
     Icons.qrc \
     lang.qrc
 
-TRANSLATIONS = biblioYass_ar.ts
-CODECFORSRC  = UTF-8
+TRANSLATIONS = bibliotheque_ar.ts

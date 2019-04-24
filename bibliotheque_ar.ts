@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_SA">
+<TS version="2.1" language="ar_SA">
 <context>
     <name>ActiveDoc</name>
     <message>
@@ -8,22 +8,22 @@
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="activedoc.ui" line="243"/>
         <source>الكتاب</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="activedoc.ui" line="282"/>
         <source>اسم الموظف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="activedoc.ui" line="383"/>
         <source>نسبة التقدم</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="activedoc.ui" line="444"/>
         <source>يوم متبقي</source>
         <translation type="unfinished"></translation>
@@ -55,12 +55,12 @@
         <source>Dialog</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="dialog.ui" line="98"/>
         <source>هل تريد حفظ المعلومات ؟</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="dialog.ui" line="160"/>
         <source>لا</source>
         <translation type="unfinished"></translation>
@@ -70,7 +70,7 @@
         <source>Esc</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="dialog.ui" line="201"/>
         <source>نعم</source>
         <translation type="unfinished"></translation>
@@ -88,22 +88,22 @@
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="login.ui" line="48"/>
         <source>مكتبة ياسين</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="login.ui" line="141"/>
         <source>إسم المستخدم</source>
         <translation>إسم المستخدم</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="login.ui" line="240"/>
         <source>كلمة المرور</source>
         <translation>كلمة المرور</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="login.ui" line="313"/>
         <source>دخول</source>
         <translation>دخول</translation>
@@ -113,7 +113,7 @@
         <source>Return</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="login.ui" line="372"/>
         <source>الغاء</source>
         <translation>إلغاء</translation>
@@ -147,22 +147,22 @@
         <source>MainWindow</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="mainwindow.ui" line="166"/>
         <source>فضاء الزبائن</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="mainwindow.ui" line="179"/>
         <source>الوثائق/ الكتب /المذكرات</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="mainwindow.ui" line="191"/>
         <source>فضاء العمال</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="mainwindow.ui" line="203"/>
         <source>تعديلات البرنامج</source>
         <translation type="unfinished"></translation>
@@ -253,82 +253,82 @@
         <source>TabWidget</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="55"/>
         <source>إضــافة زبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="58"/>
         <source>لإضافة زبون جديد</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="87"/>
         <source>اضافة زبـون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="215"/>
         <source>إسم الزبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="355"/>
         <source>عنوان المذكـرة / الوثيقة / الكتاب</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="489"/>
         <source>البريــد الإلكتروني للزبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="632"/>
         <source>رقم الهاتف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="672"/>
         <source>لغة المذكــرة / الوثيقة / الكتاب</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="789"/>
         <source>عربية</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="794"/>
         <source>فرنسية</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="799"/>
         <source>إنجليزية</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="804"/>
         <source>لغة أخرى</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="841"/>
         <source>عدد الصفحات </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="999"/>
         <source>تاريخ الإيــداع </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1149"/>
         <source>تاريخ التسليم </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1308"/>
         <source>ملاحظات</source>
         <translation type="unfinished"></translation>
@@ -342,45 +342,45 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1429"/>
         <source>دج</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1512"/>
         <source>السعر الاجمالي للدفع =&gt; </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1550"/>
         <location filename="tabwidgetclients.ui" line="2237"/>
         <source>لم يدفع بعد</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1555"/>
         <location filename="tabwidgetclients.ui" line="2242"/>
         <source>تم الدفع</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1560"/>
         <location filename="tabwidgetclients.ui" line="2247"/>
         <source>اخرى </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1588"/>
         <source>تم الدفع </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1645"/>
         <source>إلغــاء</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1707"/>
         <location filename="tabwidgetclients.ui" line="2417"/>
         <source>حفظ</source>
@@ -392,37 +392,37 @@ p, li { white-space: pre-wrap; }
         <source>Return</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1752"/>
         <source>تحديث معلومات الزبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1755"/>
         <source>اكمال ملأ المعلومات الناقصة او تغييرها</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1782"/>
         <source>تعديل معلومات الزبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="1908"/>
         <source>ادخال اسم الزبون المراد البحث عنه</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="2052"/>
         <source>اسم الزبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="2112"/>
         <source>رقم هاتف الزبون</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="2175"/>
         <source>البريد الالكتروني</source>
         <translation type="unfinished"></translation>
@@ -432,7 +432,7 @@ p, li { white-space: pre-wrap; }
         <source>print Ticket</source>
         <translation>طباعة التذكرة</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetclients.ui" line="2365"/>
         <source>حذف</source>
         <translation type="unfinished"></translation>
@@ -545,7 +545,7 @@ p, li { white-space: pre-wrap; }
         <source>TabWidget</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="44"/>
         <source>توزيع الوثائق على الموظفين</source>
         <translation type="unfinished"></translation>
@@ -555,32 +555,32 @@ p, li { white-space: pre-wrap; }
         <source>.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="118"/>
         <source>تعيين</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="150"/>
         <source>إختيار وثيقة / مذكرة :</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="198"/>
         <source>إختيار موظف :</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="273"/>
         <source>الوثائق في طور الانجاز</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="310"/>
         <source>الارشيف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetdocuments.ui" line="343"/>
         <source>الوثائق التي تم انجازها</source>
         <translation type="unfinished"></translation>
@@ -593,22 +593,22 @@ p, li { white-space: pre-wrap; }
         <source>TabWidget</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="27"/>
         <source>إغلاق</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="33"/>
         <source>تحديث معلومات المستخدم : </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="122"/>
         <source>إدخال الاسم الجديد للمستخدم</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="232"/>
         <location filename="tabwidgetsettings.ui" line="681"/>
         <location filename="tabwidgetsettings.ui" line="843"/>
@@ -624,7 +624,7 @@ p, li { white-space: pre-wrap; }
         <source>Return</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="297"/>
         <location filename="tabwidgetsettings.ui" line="746"/>
         <source>إلغاء</source>
@@ -636,17 +636,17 @@ p, li { white-space: pre-wrap; }
         <source>Esc</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="428"/>
         <source>إدخال كلمة المرور الجديدة</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="571"/>
         <source>تاكيد كلمة المرور</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetsettings.ui" line="784"/>
         <source>ادارة المعلومات الاحتياطية</source>
         <translation type="unfinished"></translation>
@@ -694,37 +694,37 @@ p, li { white-space: pre-wrap; }
         <source>TabWidget</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="72"/>
         <source>إضافة موظف/كاتــب</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="103"/>
         <source>اضافة موظف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="195"/>
         <source>إسم الموظف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="341"/>
         <source>           رقم الهاتف الخاص بالموظف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="484"/>
         <source>البريــد الإلكتروني </source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="561"/>
         <source>ملاحظات</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="702"/>
         <location filename="tabwidgetworkers.ui" line="1263"/>
         <source>حفظ</source>
@@ -736,37 +736,37 @@ p, li { white-space: pre-wrap; }
         <source>Return</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="767"/>
         <source>إلغــاء</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="812"/>
         <source>تعديل معلومات الموظفين / العامل</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="932"/>
         <source>ادخال اسم الموظف المراد البحث عنه</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="1049"/>
         <source>اسم الموظف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="1109"/>
         <source>رقم هاتف الموظف</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="1169"/>
         <source>البريد الالكتـروني</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="tabwidgetworkers.ui" line="1314"/>
         <source>حذف</source>
         <translation type="unfinished"></translation>
@@ -842,22 +842,22 @@ p, li { white-space: pre-wrap; }
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="topnav.ui" line="101"/>
         <source>مكتبة ياسين</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="topnav.ui" line="197"/>
         <source>الكتب / الوثائق</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="topnav.ui" line="256"/>
         <source>المـوظفين</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="topnav.ui" line="315"/>
         <source>الزبائــن</source>
         <translation type="unfinished"></translation>

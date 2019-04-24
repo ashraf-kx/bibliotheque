@@ -1,5 +1,5 @@
-#include <QtGui/QApplication>
-#include <QSystemTrayIcon>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QSystemTrayIcon>
 #include <QDir>
 #include "mainwindow.h"
 #include <QTranslator>
@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
           }
 
         QTranslator translator;
-        translator.load(":biblioYass_ar");
+        translator.load(":bibliotheque_ar");
         a.installTranslator(&translator);
 
     a.setWindowIcon(QIcon(QPixmap(":Icons/icon-evergreen-alt.png")));

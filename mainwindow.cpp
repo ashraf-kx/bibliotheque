@@ -53,7 +53,7 @@ MainWindow::MainWindow(QWidget *parent) :
     systemTray->setIcon(QIcon(QPixmap(":Icons/icon-evergreen-alt.png")));
     systemTray->show();
 
-    systemTray->showMessage(tr("Librery YS"),tr("Develop everywhere."),QSystemTrayIcon::Information,1000);
+    systemTray->showMessage(tr("Librery El-rachidine"),tr("Develop everywhere."),QSystemTrayIcon::Information,1000);
 
     mDB = new DB();
 
